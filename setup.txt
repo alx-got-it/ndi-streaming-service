@@ -1,0 +1,7 @@
+Установить ndi sdk если необходимо:
+https://ndi.video/tech/
+
+sudo apt install avahi-daemon
+sudo systemctl enable --now avahi-daemon
+pip install -r requirements.txt
+python find.py
